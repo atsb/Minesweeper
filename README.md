@@ -1,2 +1,3 @@
-# Minesweeper
-The original Windows NT Minesweeper.  Modernised for 64bit and modern WIN64 API.
+# Windows NT Minesweeper
+
+This project is a modern WIN64 port of the classic Windows NT Minesweeper. High-DPI aware and with a movable window.
